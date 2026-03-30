@@ -1,0 +1,5 @@
+tensorflow
+torchvision
+opencv-python
+pillow
+numpy
